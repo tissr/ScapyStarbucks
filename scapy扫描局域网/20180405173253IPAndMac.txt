@@ -1,0 +1,26 @@
+设备的IP:192.168.31.1 Mac地址78:11:dc:05:19:9c|None
+设备的IP:192.168.31.6 Mac地址d8:63:75:82:ba:68|None
+设备的IP:192.168.31.17 Mac地址b8:97:5a:fd:49:ba|{'re': 'New Taipei    231', 'co': 'TW', 'addr': '2Fl.  No. 108-2, Min Chuan Road, Hsin Tien Dist.,', 'com': "BIOSTAR Microtech Int'l Corp."}
+设备的IP:192.168.31.29 Mac地址3c:2e:f9:85:76:50|None
+设备的IP:192.168.31.32 Mac地址44:6e:e5:98:30:bd|None
+设备的IP:192.168.31.40 Mac地址2c:5b:b8:67:43:45|{'re': 'DONGGUAN  GUANGDONG  523860', 'co': 'CN', 'addr': "NO.18 HAIBIN ROAD,WUSHA,CHANG'AN,DONGGUAN,GUANGDONG,CHINA", 'com': 'GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD'}
+设备的IP:192.168.31.42 Mac地址78:02:f8:f7:b5:33|None
+设备的IP:192.168.31.44 Mac地址48:3b:38:d0:9c:57|None
+设备的IP:192.168.31.53 Mac地址d0:22:be:df:6f:ee|{'re': 'Bangpakong  Chachoengsao  24180', 'co': 'US', 'addr': '93Moo5T. Bangsamak', 'com': 'Samsung Electro Mechanics co.,LTD.'}
+设备的IP:192.168.31.68 Mac地址64:6e:69:d8:70:c7|None
+设备的IP:192.168.31.69 Mac地址b8:03:05:37:e0:1f|{'re': 'Kulim  Kedah  09000', 'co': 'MY', 'addr': 'Lot 8, Jalan Hi-Tech 2/3', 'com': 'Intel Corporate'}
+设备的IP:192.168.31.74 Mac地址d0:c5:f3:dc:fd:25|None
+设备的IP:192.168.31.76 Mac地址c0:9a:71:60:3d:e9|{'re': 'Xiamen  Fujian  361008', 'co': 'CN', 'addr': '1-3F, Block2, No.6 Wanghai Rd,Siming District, Xiamen, Fujian, China (”MEITU”)', 'com': 'XIAMEN MEITU MOBILE TECHNOLOGY CO.LTD'}
+设备的IP:192.168.31.86 Mac地址40:b8:9a:8f:c4:33|{'re': 'Chongqing  401332', 'co': 'CN', 'addr': 'Building D21,No.1, East Zone 1st Road', 'com': 'Hon Hai Precision Ind. Co.,Ltd.'}
+设备的IP:192.168.31.89 Mac地址34:7c:25:76:a9:ce|None
+设备的IP:192.168.31.98 Mac地址98:9c:57:18:37:bf|None
+设备的IP:192.168.31.104 Mac地址e0:5f:45:d5:ab:21|None
+设备的IP:192.168.31.125 Mac地址b0:e5:ed:58:16:e5|None
+设备的IP:192.168.31.127 Mac地址70:47:e9:56:33:73|None
+设备的IP:192.168.31.136 Mac地址64:cc:2e:dd:71:2d|None
+设备的IP:192.168.31.140 Mac地址dc:f0:90:9c:74:b5|None
+设备的IP:192.168.31.154 Mac地址60:21:01:30:32:d9|None
+设备的IP:192.168.31.155 Mac地址e0:b5:2d:67:7b:74|{'re': 'Cupertino  CA  95014', 'co': 'US', 'addr': '1 Infinite Loop', 'com': 'Apple, Inc.'}
+设备的IP:192.168.31.165 Mac地址f4:b7:b3:3f:ab:60|None
+设备的IP:192.168.31.179 Mac地址78:02:f8:26:8c:82|None
+设备的IP:192.168.31.211 Mac地址74:df:bf:61:b1:a3|None
